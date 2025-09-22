@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Salam!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-
-# 👋 Hi, I'm Oussama!
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Cloud+Data+Engineer;Big+Data+And+AI+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=gradient&center=true&vCenter=true&width=600&height=100&lines=Salam!+👋;Hi,+I'm+Oussama!;Cloud+Data+Engineer;Big+Data+And+AI+Student)
   
 </div>
 
